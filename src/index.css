@@ -20,6 +20,12 @@ h1 {
   margin-bottom: 20px;
 }
 
+h2 {
+  font-size: 1.6em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .list-pokemon {
   max-height: calc(100vh - 76px);
   ;
