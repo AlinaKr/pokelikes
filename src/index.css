@@ -28,6 +28,5 @@ h2 {
 
 .list-pokemon {
   max-height: calc(100vh - 76px);
-  ;
   overflow: scroll;
 }
